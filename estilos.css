@@ -1,0 +1,37 @@
+.menu{
+    background-image: url("https://cdn01.vulcanpost.com/wp-uploads/2015/10/Apple_Hero_CHina_Store.jpg");
+    background-repeat: repeat-x;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.indice{
+    background-color: rgb(67, 182, 144);
+
+
+}
+.R_categoria{
+    background-image: url("http://media.idownloadblog.com/wp-content/uploads/2013/09/Apple-Store-Stanford-2-North-California-exterior-001.jpg");
+   color:black;
+
+   
+}
+.R_producto
+{
+    background-color: #3a3cb8;
+	border: 1px solid #d4d228;
+	border-radius: 15px;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+	color: #fff;
+	font-weight: bold;
+	line-height: 48px;
+	text-align: center;
+	text-transform: uppercase;
+	width: 240px;
+}
+.body_producto
+{
+    background-color: aqua;
+}
